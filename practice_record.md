@@ -76,3 +76,6 @@
 |                              |                |                |                            |          |
 | 7-1. Rental Car              | 简单           | 1/1            | 2023/12/3                  |          |
 | 7-2. Restaurant Seating:     | 简单           | 1/1            | 2023/12/3                  |          |
+| 7-3. Multiples of Ten        | 简单           | 1/1            | 2023/12/4                  |          |
+| 7-4. Pizza Toppings          | 简单           | 1/1            | 2023/12/4                  |          |
+| 7-5. Movie Tickets           | 简单           | 1/1            | 2023/12/4                  |          |
